@@ -1,0 +1,918 @@
+
+
+.etc{
+	display:none;
+}
+.features-small-icon-cards-featuresrow {
+
+}
+.features-small-icon-cards-featinnerrow{
+	width:100%;
+	height:auto;
+}
+
+.header-homepage h1.heading8 {
+    font-weight: 600;
+    font-size: 3em;
+    line-height: 150%;
+	padding-top:2rem;
+}
+	
+a.anchor {
+    display: block;
+    position: relative;
+    top: -130px;
+    visibility: hidden;
+}
+
+.anchor2 {
+    display: block;
+    position: relative;
+    top: 10px;
+    visibility: hidden;
+}
+
+a.anchor3 {
+    display: block;
+    position: relative;
+    top: -140px;
+    visibility: hidden;
+}
+a.anchor4 {
+    display: block;
+    position: relative;
+    top: -140px;
+    visibility: hidden;
+}
+a.anchor5 {
+    display: block;
+    position: relative;
+    top: -150px;
+    visibility: hidden;
+}
+
+a.anchor6 {
+    display: block;
+    position: relative;
+    top: -140px;
+    visibility: hidden;
+}
+.about-four-boxes-textcol{
+	height:25rem;
+}
+
+.custom-image{
+	display:none;
+}
+.custom-image2{
+	display:none;
+}
+
+.custom-image3{
+	display:none;
+}
+
+
+
+.sosin{
+	width:8rem;
+}
+.et{
+		text-align:center;
+	  margin-top:0;
+}
+.mailaddress{
+	padding-top:0.3rem;
+	margin-bottom:0;
+}
+.otoku{
+	line-height:1.6rem;
+}
+
+.abc{
+	line-height:3rem;
+}
+.sonna{
+		line-height:3.4rem;
+}
+
+.fudan{
+		line-height:2rem;
+}
+
+.feature2{
+			line-height:2rem;
+}
+
+.feature4{
+			line-height:2rem;
+}
+
+.feature6{
+			line-height:2rem;
+}
+.feature8{
+			line-height:2rem;
+}
+
+.koshi2{
+	line-height:2rem;
+}
+@-moz-document url-prefix(){
+	.features-small-icon-cards-featuresrow {
+width:107%;
+height:auto;}
+    }
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    _::-webkit-full-page-media, _:future, :root body {
+        	.features-small-icon-cards-featuresrow {
+width:130%;
+height:auto;}
+    }
+}
+
+@media only screen and (min-width:559px) and (max-width:768px)  {
+    .header-description-row > div:last-of-type {
+        margin-bottom: 0px !important;
+    }
+
+	
+.header-top.homepage.coloured-nav a.text-logo, .header-top.homepage a.text-logo {
+    font-weight: 500;
+    font-size: 2em;
+    line-height: 1.8rem;
+	  width:100%;
+		 margin-top:0rem;
+		padding:0;
+	}
+
+	
+		.header-top.homepage.coloured-nav a.text-logo, .header-top.homepage.fixto-fixed a.text-logo {
+    font-weight: 500;
+    font-size: 2em;
+    line-height: auto;
+		 width:100%;
+		 margin-top:0.5rem;
+			padding:0;
+	}
+	
+
+.header-homepage h1.heading8 {
+    font-weight: 600;
+    font-size: 1.9em;
+    line-height: 150%;
+	padding-top:6rem;
+}
+	
+	.header-homepage p.header-subtitle{
+			font-weight: 600;
+    font-size: 1.2em;
+}
+
+	.kaishi{
+		font-size:1.3rem;
+	}
+	.memo{
+				font-size:0.86rem;
+	}
+	.mailaddress{
+font-size:1.4rem;}
+	.abc{
+		font-size:2.1rem;
+		margin-top:0.5rem;
+	}
+	.sinro{
+		font-size:1rem;
+	}
+	.sinro2{
+		font-size:0.8rem;
+}
+		.shorai{
+		font-size:1rem;
+	}
+	.shorai2{
+		font-size:0.8rem;
+}
+			.shorai3{
+		font-size:0.93rem;
+	}
+	.shorai4{
+		font-size:0.8rem;
+}
+			.shorai5{
+		font-size:0.93rem;
+	}
+	.shorai6{
+		font-size:0.8rem;
+}
+	
+	.sonna{
+		font-size:2.14rem;
+	}
+	.fudan{
+		font-size:1.rem;
+		word-break:keep-all;
+		
+}
+	.feature1{
+		font-size:1.6rem;
+	}
+		.feature2{
+		font-size:0.8rem;
+		line-height:1.7rem;
+	}
+		.feature3{
+		font-size:1.6rem;
+	}
+		.feature4{
+		font-size:0.8rem;
+					line-height:1.6rem;
+	}
+		.feature5{
+		font-size:1.6rem;
+	}
+		.feature6{
+		font-size:0.8rem;
+		line-height:1.6rem;
+
+	}
+			.feature7{
+		font-size:1.6em;
+	}
+		.feature8{
+		font-size:0.76rem;
+		 line-height:1.6rem;
+	}
+	.otoku{
+		font-size:0.8rem;
+				 line-height:1.2rem;
+	}
+	.koshi{
+		font-size:2.14rem;
+	}
+
+.et{
+		display:none;
+	}
+	.etc{
+		display: block;
+		text-align:center;
+	}
+	.sinro{
+		font-size:1rem;
+	}
+	.koshi{
+				font-size:2.1rem
+	}
+	
+	.koshi2{
+				 line-height:1.5rem;
+	}
+	.scean{
+		font-size:2.1rem;
+	}
+	.koshi8{
+		line-height:1.6rem;
+}
+		.koshi6{
+		line-height:1.6rem;
+}
+		.koshi4{
+		line-height:1.6rem;
+}
+}
+
+@media only screen and ( max-width:559px)  {
+    .header-description-row > div:last-of-type {
+        margin-bottom: 0px !important;
+    }
+	
+	
+.header-top.homepage.coloured-nav a.text-logo, .header-top.homepage a.text-logo {
+    font-weight: 500;
+    font-size: 1.24em;
+    line-height: 3rem;
+	  width:100%;
+		 margin-top:0.5rem;
+		padding:0;
+	}
+	
+		.kaishi{
+		font-size:1.1rem;
+	}
+
+	.header-top.homepage.coloured-nav a.text-logo, .header-top.homepage.fixto-fixed a.text-logo {
+    font-weight: 500;
+    font-size: 1.1em;
+    line-height: auto;
+		 width:100%;
+		 margin-top:0.5rem;
+			padding:0;
+	}
+	
+
+.header-homepage h1.heading8 {
+    font-weight: 600;
+    font-size: 1.2em;
+    line-height: 150%;
+	padding-top:0;
+}
+	
+	.header-homepage p.header-subtitle{
+			font-weight: 600;
+    font-size: 0.88em;
+}
+
+	.cta-centered-section-text {
+		font-size:0.7rem;
+	}
+	
+	h2.abc{
+		font-size:1.6rem;
+	  margin-bottom:1.5rem;
+	
+	}
+	
+	.mail1{
+		font-size:1.4rem;
+		color:white;
+	}
+	
+	.sinro{
+		font-size:1rem;
+	}
+	
+	.sinro2{
+		font-size:0.8rem;
+		text-align:left;
+		margin-bottom:0.1rem;
+	}
+	
+	.shorai{
+			font-size:1rem;
+		
+	}
+	
+		.shorai2{
+		font-size:0.8rem;
+		text-align:left;
+					margin-bottom:0.1rem;
+	}
+	
+		.shorai3{
+			font-size:1rem;
+	}
+	
+		.shorai4{
+		font-size:0.8rem;
+		text-align:left;
+					margin-bottom:0.1rem;
+	}
+	
+	
+		.shorai5{
+			font-size:1rem;
+			
+	}
+	
+		.shorai6{
+		font-size:0.8rem;
+		text-align:left;
+					margin-bottom:0.1rem;
+	}
+	
+	.sonna{
+		font-size:1.4rem;
+		line-height:2.4rem;
+		margin-bottom:0.8rem;
+	}
+
+	
+	.fudan{
+				font-size:0.7rem;
+		  text-align:center;
+		margin-bottom:0;
+		line-height:1.3rem
+		 
+	}
+
+	.feature1{
+			font-size:1.49rem;
+		margin-bottom:1rem;
+		padding-left:1.5rem;
+		padding-right:1.5rem;
+	}
+		.feature2{
+			font-size:0.8rem;
+					line-height:1.5rem;
+	}
+	
+	.feature3{
+				font-size:1.6rem;
+			margin-bottom:1rem;
+	}
+		.feature4{
+						font-size:0.8rem;
+					 line-height:1.5rem;
+	}
+		.feature5{
+				font-size:1.6rem;
+				margin-bottom:1rem;
+	}
+			.feature6{
+				font-size:0.8rem;
+				line-height:1.5rem;
+	}
+		.feature7{
+				font-size:1.6rem;
+				margin-bottom:1rem;
+	}
+			.feature8{
+				font-size:0.8rem;
+				line-height:1.5rem;
+				margin-bottom:0;
+	}
+
+	.stripped-about-four-boxes-section {
+		padding-top:0;
+	}
+	.koshi{
+		font-size: 1.6rem;
+		margin-top:0.5rem;
+	}
+
+		.koshi2{
+		font-size: 0.63rem;
+		text-align:left;
+		margin-bottom:0;
+			line-height:0.99rem;
+
+	}
+	.koshi3{
+		font-size: 1.1rem;
+		margin:4rem auto;
+		 text-decoration: underline;
+	}
+
+		.koshi4{
+		font-size: 0.85rem;
+			text-align:left;
+			margin-bottom:0;
+	}
+	.koshi5{
+		font-size: 1.1rem;
+			margin:4rem auto;
+		 text-decoration: underline;
+	}
+
+		.koshi6{
+		font-size: 0.85rem;
+			text-align:left;
+					margin-bottom:0;
+	}
+	
+	.koshi7{
+		font-size: 1.1rem;
+			margin:4rem auto;
+		 text-decoration: underline;
+	}
+
+		.koshi8{
+		font-size: 0.85rem;
+			text-align:left;
+			
+	}
+		.scean{
+		font-size:1.6rem;
+	}
+		.otoi{
+				font-size:1.6rem;
+	}
+	div{
+		overflow:hidden;
+	}
+	.et{
+		display:none;
+	}
+	.etc{
+		display: block;
+		margin:2rem auto 0;
+	}
+	.mailpoet_form{
+		max-width:100%;
+		 padding-bottom: 0.3rem;
+		padding-top: 0.6rem;
+	}
+	.mailform{
+		padding-bottom:0.9rem;
+	}
+	.otoku{
+		font-size:0.7rem;
+	}
+	.memo{
+				font-size:0.6rem;
+	}
+	.mailaddress{
+	padding-top:0.4rem;
+	margin-bottom:0;
+		font-size:1.1rem;
+}
+	
+	.features-small-icon-cards-iconcol{
+		padding-bottom:0;
+		padding-top:0.7rem;
+	}
+
+	
+	.features-small-icon-cards-textrow{
+		margin-bottom:0;
+		
+	}
+	
+	.about-four-boxes-imgcol {
+    background: url(./images/project2.jpg) center top / cover;
+		width: 100%;
+		min-height:17rem;
+		margin-top:rem;
+}
+
+	.sosin{
+		width:40%;
+		margin: auto;
+	}
+	
+	.about-four-boxes-imgcol2{
+		 display: none;
+	}
+		
+	.about-four-boxes-imgcol{
+		 display: none;
+	}
+	.custom-image{
+	display:block;
+	height:auto;
+	width:90%;
+	margin:auto;
+	margin-top:1rem;
+}
+	
+	img.features-square-image-featimg{
+		width:40%;
+		height:40%;
+	}
+.features-square-image-featcol{
+		display:flex;
+	flex-wrap: wrap;
+	}
+
+	.about-four-boxes-textcol{
+		padding-top:0.8rem;
+		height:auto;
+	}
+
+	.custom-image2{
+	display:block;
+	margin:1.5rem auto;
+		width:4rem;
+}
+
+	.custom-image3{
+	display:block;
+	margin: 1rem auto;
+	width:10rem;
+}
+	.anchor2 {
+    display: block;
+    position: relative;
+    top: -130px;
+    visibility: hidden;
+}
+
+
+}
+
+
+@media only screen and ( max-width:320px)  {
+    .header-description-row > div:last-of-type {
+        margin-bottom: 0px !important;
+    }
+.header-top.homepage.coloured-nav a.text-logo, .header-top.homepage a.text-logo {
+    font-weight: 500;
+    font-size: 0.9em;
+    line-height: auto;
+	  width:100%;
+		 margin-top:0.5rem;
+		padding:0;
+	}
+	
+
+	.header-top.homepage.coloured-nav a.text-logo, .header-top.homepage.fixto-fixed a.text-logo {
+    font-weight: 500;
+    font-size: 0.9em;
+    line-height: 1.5rem;
+		 width:100%;
+		 margin-top:0.5rem;
+			padding:0;
+	}
+	
+	.kaishi{
+		font-size:1rem;
+	}
+.header-homepage h1.heading8 {
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 150%;
+}
+	
+	.header-homepage p.header-subtitle{
+			font-weight: 600;
+    font-size: 0.7em;
+}
+
+	
+	.cta-centered-section-text {
+		font-size:0.7rem;
+	}
+	
+	h2.abc{
+		font-size:1.2rem;
+	 margin-bottom:0;
+	}
+	
+	.mail1{
+		font-size:1.4rem;
+		color:white;
+	}
+	
+	.sinro{
+		font-size:1rem;
+	}
+	
+	.sinro2{
+		font-size:0.8rem;
+		text-align:left;
+		margin-bottom:0.1rem;
+	}
+	
+	.shorai{
+			font-size:1rem;
+		
+	}
+	
+		.shorai2{
+		font-size:0.8rem;
+		text-align:left;
+					margin-bottom:0.1rem;
+	}
+	
+		.shorai3{
+			font-size:1rem;
+	}
+	
+		.shorai4{
+		font-size:0.8rem;
+		text-align:left;
+					margin-bottom:0.1rem;
+	}
+	
+	
+		.shorai5{
+			font-size:1rem;
+			
+	}
+	
+		.shorai6{
+		font-size:0.8rem;
+		text-align:left;
+					margin-bottom:0.1rem;
+	}
+	
+	.sonna{
+		font-size:1.2rem;
+		line-height:2.4rem;
+		margin-bottom:0.8rem;
+	}
+
+	
+	.fudan{
+				font-size:0.7rem;
+		  text-align:left;
+		margin-bottom:0;
+		line-height:1.3rem
+	
+		 
+	}
+
+	.feature1{
+			font-size:1.3rem;
+		margin-bottom:1rem;
+		padding-left:1.5rem;
+		padding-right:1.5rem;
+	}
+		.feature2{
+			font-size:0.7rem;
+					line-height:1.4rem;
+
+	}
+	
+	.feature3{
+				font-size:1.3rem;
+			margin-bottom:1rem;
+	}
+		.feature4{
+						font-size:0.7rem;
+					 line-height:1.4rem;
+	}
+		.feature5{
+				font-size:1.3rem;
+				margin-bottom:1rem;
+	}
+			.feature6{
+				font-size:0.7rem;
+				line-height:1.4rem;
+	}
+		.feature7{
+				font-size:1.3rem;
+				margin-bottom:1rem;
+	}
+			.feature8{
+				font-size:0.7rem;
+				line-height:1.4rem;
+				margin-bottom:0;
+	}
+
+
+	.stripped-about-four-boxes-section {
+		padding-top:0;
+	}
+	.koshi{
+		font-size: 1.5rem;
+		margin-top:0.5rem;
+	}
+
+		.koshi2{
+		font-size: 0.8rem;
+		text-align:left;
+		margin-bottom:0;
+
+	}
+	.koshi3{
+		font-size: 0.8rem;
+		margin:4rem auto;
+		 text-decoration: underline;
+	}
+
+		.koshi4{
+		font-size: 0.85rem;
+			text-align:left;
+			margin-bottom:0;
+	}
+	.koshi5{
+		font-size: 0.8rem;
+			margin:4rem auto;
+		 text-decoration: underline;
+	}
+
+		.koshi6{
+		font-size: 0.85rem;
+			text-align:left;
+					margin-bottom:0;
+	}
+	
+	.koshi7{
+		font-size: 0.8rem;
+			margin:4rem auto;
+		 text-decoration: underline;
+	}
+
+		.koshi8{
+		font-size: 0.85rem;
+			text-align:left;
+			
+	}
+		.scean{
+		font-size:1.3rem;
+	}
+		.otoi{
+				font-size:1.6rem;
+	}
+	div{
+		overflow:hidden;
+	}
+	.et{
+		display:none;
+	}
+	.etc{
+		display: block;
+		margin:2rem auto 0;
+	}
+	.mailpoet_form{
+		max-width:100%;
+		 padding-bottom: 0.3rem;
+		padding-top: 0.6rem;
+	}
+	.mailform{
+		padding-bottom:0.9rem;
+	}
+	.otoku{
+		font-size:0.5rem;
+		text-align:left;
+		width:102%;
+	}
+	.memo{
+				font-size:0.4rem;
+	}
+	.mailaddress{
+	padding-top:0;
+	margin-bottom:0;
+		font-size:1.1rem;
+}
+	
+	.features-small-icon-cards-iconcol{
+		padding-bottom:0;
+		padding-top:0.7rem;
+	}
+
+	
+	.features-small-icon-cards-textrow{
+		margin-bottom:0;
+		
+	}
+	
+	.about-four-boxes-imgcol {
+    background: url(./images/project2.jpg) center top / cover;
+		width: 100%;
+		min-height:17rem;
+		margin-top:rem;
+}
+
+	.sosin{
+		width:40%;
+		margin: auto;
+	}
+	
+	.about-four-boxes-imgcol2{
+		 display: none;
+	}
+		
+	.about-four-boxes-imgcol{
+		 display: none;
+	}
+	.custom-image{
+	display:block;
+	height:auto;
+	width:90%;
+	margin:auto;
+	margin-top:1rem;
+}
+	
+	img.features-square-image-featimg{
+		width:40%;
+		height:40%
+
+	}
+.features-square-image-featcol{
+		display:flex;
+	flex-wrap: wrap;
+	}
+
+	.about-four-boxes-textcol{
+		padding-top:0.8rem;
+		height:auto;
+	}
+
+	.custom-image2{
+	display:block;
+	margin:1.5rem auto;
+		width:4rem;
+}
+
+	.custom-image3{
+	display:block;
+	margin: 1rem auto;
+	width:10rem;
+}
+
+	
+.anchor2 {
+    display: block;
+    position: relative;
+    top: -130px;
+    visibility: hidden;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
